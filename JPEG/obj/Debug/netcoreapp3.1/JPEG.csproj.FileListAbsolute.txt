@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\JPEG\JPEG\bin\Debug\netcoreapp3.1\JPEG.exe
+C:\Users\Acer\source\repos\JPEG\JPEG\bin\Debug\netcoreapp3.1\JPEG.deps.json
+C:\Users\Acer\source\repos\JPEG\JPEG\bin\Debug\netcoreapp3.1\JPEG.runtimeconfig.json
+C:\Users\Acer\source\repos\JPEG\JPEG\bin\Debug\netcoreapp3.1\JPEG.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\JPEG\JPEG\bin\Debug\netcoreapp3.1\JPEG.dll
+C:\Users\Acer\source\repos\JPEG\JPEG\bin\Debug\netcoreapp3.1\JPEG.pdb
+C:\Users\Acer\source\repos\JPEG\JPEG\obj\Debug\netcoreapp3.1\JPEG.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\JPEG\JPEG\obj\Debug\netcoreapp3.1\JPEG.Form1.resources
+C:\Users\Acer\source\repos\JPEG\JPEG\obj\Debug\netcoreapp3.1\JPEG.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\JPEG\JPEG\obj\Debug\netcoreapp3.1\JPEG.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\JPEG\JPEG\obj\Debug\netcoreapp3.1\JPEG.AssemblyInfo.cs
+C:\Users\Acer\source\repos\JPEG\JPEG\obj\Debug\netcoreapp3.1\JPEG.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\JPEG\JPEG\obj\Debug\netcoreapp3.1\JPEG.dll
+C:\Users\Acer\source\repos\JPEG\JPEG\obj\Debug\netcoreapp3.1\JPEG.pdb
+C:\Users\Acer\source\repos\JPEG\JPEG\obj\Debug\netcoreapp3.1\JPEG.genruntimeconfig.cache
